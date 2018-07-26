@@ -1,0 +1,24 @@
+# General always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+node_modules/
+.tmp/
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+_notes
+dwsync.xml
